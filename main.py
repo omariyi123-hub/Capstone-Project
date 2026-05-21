@@ -6,3 +6,6 @@ def add1():
 
 def login_page():
     print("welcome to the new app")
+
+def logout():
+    print("gggggggg")

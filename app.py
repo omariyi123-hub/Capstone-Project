@@ -1,1 +1,2 @@
-ECHO is on.
+def login_page():
+    print("Hello cutie")

@@ -3,3 +3,6 @@ def add1():
 
     #print("salam")
 
+
+def login_page():
+    print("welcome to the new app")
